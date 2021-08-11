@@ -48,16 +48,11 @@ See <i>/help</i> for commands and more details.</b>
 <code>/info userid</code>  -  Shows User Information. Use <code>/info</code> as reply to some message for their details!
 
 
-<b>© t.me/ciemahub182</b>
+<b>©[𝗠𝗛𝗗_𝗧𝗛𝗔𝗡𝗭𝗘𝗘𝗥](https://t.me/mhd_thanzeer)</b>
 """
 
 
-    ABOUT_MSG = """⭕️<b>My Name : Cinemahub Filter Bot</b>
-
-⭕️<b>Creater :</b> @Anandhukuttu    
-
-⭕️<b>Language :</b> <code>Python3</code>
-
-⭕️<b>Library :</b> <a href='https://docs.pyrogram.org/'>Pyrogram 1.0.7</a> 
-
+    ABOUT_MSG = """ || ＭＹ  ＡＬＬ ＩＮ  ＯＮＥ ||
+                           
+</b> <a href='https://t.me/mhd_thanzeer/'>𝗠𝗛𝗗_𝗧𝗛𝗔𝗡𝗭𝗘𝗘𝗥</a> 
 """
