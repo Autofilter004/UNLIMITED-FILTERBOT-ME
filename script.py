@@ -14,7 +14,7 @@ class Script(object):
 
                 🕵‍♂ 𝐎𝐍𝐄  𝐀𝐍𝐃  𝐎𝐍𝐋𝐘 🕵‍♂
 
-<a href='https://t.me/mhd_thanzeer/'>𝗠𝗛𝗗_𝗧𝗛𝗔𝗡𝗭𝗘𝗘𝗥</a>
+                   [𝗠𝗛𝗗_𝗧𝗛𝗔𝗡𝗭𝗘𝗘𝗥](https://t.me/mhd_thanzeer)
 
 ﻿Ｙａａａ　Ｈｏｏｏｏｏ💥
 
