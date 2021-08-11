@@ -243,12 +243,12 @@ async def help(client, message):
         reply_markup=InlineKeyboardMarkup(
             [
                 [
-                    InlineKeyboardButton("How to Deploy?", url="https://youtu.be/hkmc3e7U7R4"),
+                    InlineKeyboardButton("👨‍🔬𝑪𝒐𝒏𝒕𝒂𝒄𝒕 𝑶𝒏𝒘𝒆𝒓", url="https://t.me/mhd_thanzeer"),
                     InlineKeyboardButton("About Me", callback_data="about_data")
                 ],
                 [
-                    InlineKeyboardButton("BOT Channel", url="https://t.me/ciemahub182"),
-                    InlineKeyboardButton("Support Group", url="https://t.me/ciemahub182")
+                    InlineKeyboardButton("ＯＮＷＥＲ😏", url="https://t.me/mhd_thanzeer"),
+                    InlineKeyboardButton("𝗠𝗛𝗗_𝗧𝗛𝗔𝗡𝗭𝗘𝗘𝗥", url="https://t.me/mhd_thanzeer")
                 ]
             ]
         ),
@@ -265,7 +265,7 @@ async def about(client, message):
             [
                 [
                     InlineKeyboardButton(
-                        "SOURCE CODE", url="https://github.com/Anandhu123555?tab=repositories")
+                        "ＳＯＵＲＣＥ　ＭＹＲＵ", url="https://t.me/mhd_thanzeer")
                 ],
                 [
                     InlineKeyboardButton("BACK", callback_data="help_data"),
